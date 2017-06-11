@@ -1,0 +1,45 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+.site-title a,.site-title a:hover { color:#000000}
+.site-description { color:#999999}
+.site-branding { background-color:#eeeeee}
+.navbar.bgf6 { background-color:#f6f6f6}
+.top-header { background-color:#222222}
+.navbar .navbar-nav > li > a { color:#999999}
+.preloader,.progress-bar,.comment-form .btn:hover, .comment-form .btn:focus,.contact-form .btn,.back-to-page:hover, .back-to-page:focus,.ready-to-contact .btn,.dc2:first-letter,.list-style1 li:before,.navbar .navbar-nav > li .dropdown-menu > li .absp-cat:hover, .navbar .navbar-nav > li .dropdown-menu > li .absp-cat:focus,.absp-cat:hover, .absp-cat:focus,.btn-primary:hover, .btn-primary:focus,.button:hover,button:hover,input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover { background-color:#f8c200}
+a:hover,a:focus,.nav>li>a:hover, .nav>li>a:focus,.sidebar-area .widget a:hover,.ps-quote:before,.author-posts-link,.fun-fact .this-icon,.dc1:first-letter,.list-style3 li:before,.list-style2 li:before,.pbc-carousel .owl-prev:hover, .pbc-carousel .owl-prev:focus, .pbc-carousel .owl-next:hover, .pbc-carousel .owl-next:focus, .pbc-carousel2 .owl-prev:hover, .pbc-carousel2 .owl-prev:focus, .pbc-carousel2 .owl-next:hover, .pbc-carousel2 .owl-next:focus, .video-posts-carousel .owl-prev:hover, .video-posts-carousel .owl-prev:focus, .video-posts-carousel .owl-next:hover, .video-posts-carousel .owl-next:focus,.post-title-small:hover, .post-title-small:focus,.post-title-standard:hover, .post-title-standard:focus,.go-top:hover, .go-top:focus,.mob-social-menu li a:hover, .mob-social-menu li a:focus,.off-close,.navbar .navbar-nav > li .dropdown-menu > li .this-title a:hover, .navbar .navbar-nav > li .dropdown-menu > li .this-title a:focus,.section-title .this-title span,.breaking-news.media a:hover, .breaking-news.media a:focus, .review-stars li { color:#f8c200}
+.comment-form .btn:hover, .comment-form .btn:focus,.fun-fact .this-icon,.login-drop { border-color:#f8c200}
+.footer-widgets { background-color:#222222}
+.footer-widgets, .footer-widgets a:not(:hover) { color:#bbbbbb}
+.footer-widgets .widget-title { color:#ffffff}
+.bottom-footer { background-color:#191919}
+.site-info, .site-info a:not(:hover) { color:#ffffff}
+body, .sidebar-area .widget, .sidebar-area .widget a, .sidebar-area .widget select { color:#666666}
+body { font-family:Open Sans;}
+h1,h2,h3,h4,h5,h6,.site-title,.post-title-standard,.post-title-small,.post-title-big { font-family:Lato;}
+.site-title { font-size:24px; }
+.site-description { font-size:16px; }
+body { font-size:14px; }
+.navbar .navbar-nav > li > a { font-size:13px; }
+.post-title-standard { font-size:16px; }
+.entry-title.post-title-big { font-size:24px; }
+.widget-area .widget-title, .footer-widgets .widget-title { font-size:12px; }
+
+
+
+
+
+
